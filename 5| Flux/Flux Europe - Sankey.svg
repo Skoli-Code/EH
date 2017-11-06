@@ -1,16 +1,155 @@
-<svg width="4096" height="2180" xmlns="http://www.w3.org/2000/svg" version="1.1"><g transform="translate(0,10)"><g><path class="link" d="M5,1153.7264150943397C2048,1153.7264150943397 2048,908.9779874213837 4091,908.9779874213837" style="stroke-width: 1741.67; fill: none; stroke: rgb(148, 191, 105); stroke-opacity: 0.4;"><title>265</title></path><path class="link" d="M5,128.16037735849056C2048,128.16037735849056 2048,1947.6886792452833 4091,1947.6886792452833" style="stroke-width: 256.321; fill: none; stroke: rgb(191, 105, 105); stroke-opacity: 0.4;"><title>39</title></path><path class="link" d="M5,2143.5691823899374C2048,2143.5691823899374 2048,2138.5691823899374 4091,2138.5691823899374" style="stroke-width: 32.8616; fill: none; stroke: rgb(191, 105, 169); stroke-opacity: 0.4;"><title>5</title></path><path class="link" d="M5,2047.7044025157234C2048,2047.7044025157234 2048,2098.9937106918237 4091,2098.9937106918237" style="stroke-width: 26.2893; fill: none; stroke: rgb(105, 191, 126); stroke-opacity: 0.4;"><title>4</title></path><path class="link" d="M5,2090.7075471698113C2048,2090.7075471698113 2048,1799.669811320755 4091,1799.669811320755" style="stroke-width: 19.717; fill: none; stroke: rgb(105, 126, 191); stroke-opacity: 0.4;"><title>3</title></path><path class="link" d="M5,269.6069182389937C2048,269.6069182389937 2048,18.28616352201258 4091,18.28616352201258" style="stroke-width: 6.57233; fill: none; stroke: rgb(191, 169, 105); stroke-opacity: 0.4;"><title>1</title></path><path class="link" d="M5,2113.8522012578615C2048,2113.8522012578615 2048,24.858490566037737 4091,24.858490566037737" style="stroke-width: 6.57233; fill: none; stroke: rgb(148, 105, 191); stroke-opacity: 0.4;"><title>1</title></path><path class="link" d="M5,2070.8490566037735C2048,2070.8490566037735 2048,5 4091,5" style="stroke-width: 1; fill: none; stroke: rgb(105, 191, 191); stroke-opacity: 0.4;"><title>0</title></path></g><g><g class="node" transform="translate(4091,5)"><rect height="0" width="5" style="fill: rgb(102, 102, 102);"><title>
-0</title></rect><text x="-6" y="0" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;"></text></g><g class="node" transform="translate(4091,15)"><rect height="13.144654088050315" width="5" style="fill: rgb(102, 102, 102);"><title>1
-2</title></rect><text x="-6" y="6.572327044025157" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">1</text></g><g class="node" transform="translate(4091,38.144654088050316)"><rect height="1741.6666666666667" width="5" style="fill: rgb(102, 102, 102);"><title>265
-265</title></rect><text x="-6" y="870.8333333333334" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">265</text></g><g class="node" transform="translate(4091,1789.8113207547171)"><rect height="19.71698113207547" width="5" style="fill: rgb(102, 102, 102);"><title>3
-3</title></rect><text x="-6" y="9.858490566037736" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">3</text></g><g class="node" transform="translate(4091,1819.5283018867926)"><rect height="256.3207547169811" width="5" style="fill: rgb(102, 102, 102);"><title>39
-39</title></rect><text x="-6" y="128.16037735849056" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">39</text></g><g class="node" transform="translate(4091,2085.8490566037735)"><rect height="26.28930817610063" width="5" style="fill: rgb(102, 102, 102);"><title>4
-4</title></rect><text x="-6" y="13.144654088050315" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">4</text></g><g class="node" transform="translate(4091,2122.1383647798743)"><rect height="32.861635220125784" width="5" style="fill: rgb(102, 102, 102);"><title>5
-5</title></rect><text x="-6" y="16.430817610062892" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">5</text></g><g class="node" transform="translate(0,0)"><rect height="256.3207547169811" width="5"><title>1
-39</title></rect><text x="11" y="128.16037735849056" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">1</text></g><g class="node" transform="translate(0,266.3207547169811)"><rect height="6.572327044025157" width="5"><title>2
-1</title></rect><text x="11" y="3.2861635220125787" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">2</text></g><g class="node" transform="translate(0,282.8930817610063)"><rect height="1741.6666666666667" width="5"><title>3
-265</title></rect><text x="11" y="870.8333333333334" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">3</text></g><g class="node" transform="translate(0,2034.559748427673)"><rect height="26.28930817610063" width="5"><title>4
-4</title></rect><text x="11" y="13.144654088050315" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">4</text></g><g class="node" transform="translate(0,2070.8490566037735)"><rect height="0" width="5"><title>5
-0</title></rect><text x="11" y="0" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">5</text></g><g class="node" transform="translate(0,2080.8490566037735)"><rect height="19.71698113207547" width="5"><title>6
-3</title></rect><text x="11" y="9.858490566037736" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">6</text></g><g class="node" transform="translate(0,2110.566037735849)"><rect height="6.572327044025157" width="5"><title>7
-1</title></rect><text x="11" y="3.2861635220125787" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">7</text></g><g class="node" transform="translate(0,2127.1383647798743)"><rect height="32.861635220125784" width="5"><title>n.a.
-5</title></rect><text x="11" y="16.430817610062892" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">n.a.</text></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4096 2180" style="enable-background:new 0 0 4096 2180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#5D71A8;stroke-width:1741.67;stroke-opacity:0.4;}
+	.st1{fill:none;stroke:#6B5359;stroke-width:256.321;stroke-opacity:0.4;}
+	.st2{fill:none;stroke:#6B5359;stroke-opacity:0.4;}
+	.st3{fill:none;stroke:#4E6562;stroke-width:26.2893;stroke-opacity:0.4;}
+	.st4{fill:none;stroke:#EA6A61;stroke-width:19.717;stroke-opacity:0.4;}
+	.st5{fill:none;stroke:#F19854;stroke-width:6.5723;stroke-opacity:0.4;}
+	.st6{fill:none;stroke:#766DAF;stroke-width:6.5723;stroke-opacity:0.4;}
+	.st7{fill:none;stroke:#BC3631;stroke-opacity:0.4;}
+	.st8{fill:#666666;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:11px;}
+	.st11{fill:#5D71A8;}
+	.st12{fill:none;}
+	.st13{fill:#ECE7E2;}
+	.st14{font-family:'OpenSans-Bold';}
+	.st15{font-size:87px;glyph-orientation-vertical:0;writing-mode:tb;}
+</style>
+<path class="st0" d="M5,1163.7c2043,0,2043-244.7,4086-244.7">
+<title>265</title>
+</path>
+<path class="st1" d="M5,138.2c2043,0,2043,1819.5,4086,1819.5">
+<title>39</title>
+</path>
+<path class="st2" d="M5,2153.6c2043,0,2043-5,4086-5">
+<title>5</title>
+</path>
+<path class="st3" d="M5,2057.7c2043,0,2043,51.3,4086,51.3">
+<title>4</title>
+</path>
+<path class="st4" d="M5,2100.7c2043,0,2043-291,4086-291">
+<title>3</title>
+</path>
+<path class="st5" d="M5,279.6c2043,0,2043-251.3,4086-251.3">
+<title>1</title>
+</path>
+<path class="st6" d="M5,2123.9c2043,0,2043-2089,4086-2089">
+<title>1</title>
+</path>
+<path class="st7" d="M5,2080.8C2048,2080.8,2048,15,4091,15">
+<title>0</title>
+</path>
+<g>
+	<g transform="translate(4091,5)">
+		<polygon class="st8" points="0,10 5,10 5,10 		">
+		<title>0</title>
+		</polygon>
+	</g>
+	<g transform="translate(4091,15)">
+		<rect y="10" class="st8" width="5" height="13.1">
+		<title>1
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -12.1177 20.4224)" class="st9 st10">1</text>
+	</g>
+	<g transform="translate(4091,38.144654088050316)">
+		<rect y="10" class="st8" width="5" height="1741.7">
+		<title>265
+265</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -24.353 884.6833)" class="st9 st10">265</text>
+	</g>
+	<g transform="translate(4091,1789.8113207547171)">
+		<rect y="10" class="st8" width="5" height="19.7">
+		<title>3
+3</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -12.1177 23.7085)" class="st9 st10">3</text>
+	</g>
+	<g transform="translate(4091,1819.5283018867926)">
+		<rect y="10" class="st8" width="5" height="256.3">
+		<title>39
+39</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -18.2354 142.0104)" class="st9 st10">39</text>
+	</g>
+	<g transform="translate(4091,2085.8490566037735)">
+		<rect y="10" class="st8" width="5" height="26.3">
+		<title>4
+4</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -12.1177 26.9946)" class="st9 st10">4</text>
+	</g>
+	<g transform="translate(4091,2122.1383647798743)">
+		<rect y="10" class="st8" width="5" height="32.9">
+		<title>5
+5</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 -12.1177 30.2808)" class="st9 st10">5</text>
+	</g>
+	<g transform="translate(0,0)">
+		<rect y="10" width="5" height="256.3">
+		<title>1
+39</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 142.0104)" class="st9 st10">1</text>
+	</g>
+	<g transform="translate(0,266.3207547169811)">
+		<rect y="10" width="5" height="6.6">
+		<title>2
+1</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 17.1362)" class="st9 st10">2</text>
+	</g>
+	<g transform="translate(0,282.8930817610063)">
+		<rect y="10" width="5" height="1741.7">
+		<title>3
+265</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 884.6833)" class="st9 st10">3</text>
+	</g>
+	<g transform="translate(0,2034.559748427673)">
+		<rect y="10" width="5" height="26.3">
+		<title>4
+4</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 26.9946)" class="st9 st10">4</text>
+	</g>
+	<g transform="translate(0,2070.8490566037735)">
+		<polygon points="0,10 5,10 5,10 		">
+		<title>5
+0</title>
+		</polygon>
+		<text transform="matrix(1 0 0 1 11 13.85)" class="st9 st10">5</text>
+	</g>
+	<g transform="translate(0,2080.8490566037735)">
+		<rect y="10" width="5" height="19.7">
+		<title>6
+3</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 23.7085)" class="st9 st10">6</text>
+	</g>
+	<g transform="translate(0,2110.566037735849)">
+		<rect y="10" width="5" height="6.6">
+		<title>7
+1</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 17.1361)" class="st9 st10">7</text>
+	</g>
+	<g transform="translate(0,2127.1383647798743)">
+		<rect y="10" width="5" height="32.9">
+		<title>n.a.
+5</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 11 30.2808)" class="st9 st10">n.a.</text>
+	</g>
+</g>
+<rect x="3926.4" class="st11" width="169.6" height="2180"/>
+<rect x="3978.1" y="828.6" class="st12" width="66.2" height="678"/>
+<text transform="matrix(1 0 0 1 4009.2166 828.5891)" class="st13 st14 st15">EUROPE</text>
+</svg>

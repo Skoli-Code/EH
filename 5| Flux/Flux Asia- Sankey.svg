@@ -1,16 +1,125 @@
-<svg width="4096" height="2180" xmlns="http://www.w3.org/2000/svg" version="1.1"><g transform="translate(0,10)"><g><path class="link" d="M5,1592.9530201342284C2048,1592.9530201342284 2048,1199.2281879194632 4091,1199.2281879194632" style="stroke-width: 944.474; fill: none; stroke: rgb(105, 126, 191); stroke-opacity: 0.4;"><title>202</title></path><path class="link" d="M5,726.0178970917225C2048,726.0178970917225 2048,384.37360178970897 4091,384.37360178970897" style="stroke-width: 626.532; fill: none; stroke: rgb(148, 191, 105); stroke-opacity: 0.4;"><title>134</title></path><path class="link" d="M5,191.70022371364632C2048,191.70022371364632 2048,1963.2997762863533 4091,1963.2997762863533" style="stroke-width: 383.4; fill: none; stroke: rgb(191, 105, 105); stroke-opacity: 0.4;"><title>82</title></path><path class="link" d="M5,2103.2438478747204C2048,2103.2438478747204 2048,33.05369127516756 4091,33.05369127516756" style="stroke-width: 56.1074; fill: none; stroke: rgb(148, 105, 191); stroke-opacity: 0.4;"><title>12</title></path><path class="link" d="M5,1065.648769574944C2048,1065.648769574944 2048,1745.234899328859 4091,1745.234899328859" style="stroke-width: 32.7293; fill: none; stroke: rgb(105, 191, 126); stroke-opacity: 0.4;"><title>7</title></path><path class="link" d="M5,1101.364653243848C2048,1101.364653243848 2048,1690.8165548098434 4091,1690.8165548098434" style="stroke-width: 18.7025; fill: none; stroke: rgb(105, 191, 191); stroke-opacity: 0.4;"><title>4</title></path><path class="link" d="M5,2150.648769574944C2048,2150.648769574944 2048,1709.5190156599554 4091,1709.5190156599554" style="stroke-width: 18.7025; fill: none; stroke: rgb(191, 105, 169); stroke-opacity: 0.4;"><title>4</title></path><path class="link" d="M5,398.07606263982086C2048,398.07606263982086 2048,712.3154362416107 4091,712.3154362416107" style="stroke-width: 9.35123; fill: none; stroke: rgb(191, 169, 105); stroke-opacity: 0.4;"><title>2</title></path></g><g><g class="node" transform="translate(4091,4.999999999999773)"><rect height="56.10738255033557" width="5" style="fill: rgb(102, 102, 102);"><title>12
-12</title></rect><text x="-6" y="28.053691275167786" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">12</text></g><g class="node" transform="translate(4091,71.10738255033534)"><rect height="626.5324384787473" width="5" style="fill: rgb(102, 102, 102);"><title>134
-134</title></rect><text x="-6" y="313.26621923937364" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">134</text></g><g class="node" transform="translate(4091,707.6398210290827)"><rect height="9.35123042505593" width="5" style="fill: rgb(102, 102, 102);"><title>2
-2</title></rect><text x="-6" y="4.675615212527965" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">2</text></g><g class="node" transform="translate(4091,726.9910514541386)"><rect height="944.4742729306489" width="5" style="fill: rgb(102, 102, 102);"><title>202
-202</title></rect><text x="-6" y="472.23713646532445" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">202</text></g><g class="node" transform="translate(4091,1681.4653243847874)"><rect height="37.40492170022372" width="5" style="fill: rgb(102, 102, 102);"><title>4
-8</title></rect><text x="-6" y="18.70246085011186" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">4</text></g><g class="node" transform="translate(4091,1728.870246085011)"><rect height="32.72930648769575" width="5" style="fill: rgb(102, 102, 102);"><title>7
-7</title></rect><text x="-6" y="16.364653243847876" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">7</text></g><g class="node" transform="translate(4091,1771.599552572707)"><rect height="383.4004474272931" width="5" style="fill: rgb(102, 102, 102);"><title>82
-82</title></rect><text x="-6" y="191.70022371364655" dy=".35em" text-anchor="end" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">82</text></g><g class="node" transform="translate(0,-2.2737367544323206e-13)"><rect height="383.4004474272931" width="5"><title>1
-82</title></rect><text x="11" y="191.70022371364655" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">1</text></g><g class="node" transform="translate(0,393.4004474272929)"><rect height="9.35123042505593" width="5"><title>2
-2</title></rect><text x="11" y="4.675615212527965" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">2</text></g><g class="node" transform="translate(0,412.7516778523488)"><rect height="626.5324384787473" width="5"><title>3
-134</title></rect><text x="11" y="313.26621923937364" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">3</text></g><g class="node" transform="translate(0,1049.2841163310961)"><rect height="32.72930648769575" width="5"><title>4
-7</title></rect><text x="11" y="16.364653243847876" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">4</text></g><g class="node" transform="translate(0,1092.013422818792)"><rect height="18.70246085011186" width="5"><title>5
-4</title></rect><text x="11" y="9.35123042505593" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">5</text></g><g class="node" transform="translate(0,1120.7158836689039)"><rect height="944.4742729306489" width="5"><title>6
-202</title></rect><text x="11" y="472.23713646532445" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">6</text></g><g class="node" transform="translate(0,2075.1901565995527)"><rect height="56.10738255033557" width="5"><title>7
-12</title></rect><text x="11" y="28.053691275167786" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">7</text></g><g class="node" transform="translate(0,2141.297539149888)"><rect height="18.70246085011186" width="5"><title>n.a.
-4</title></rect><text x="11" y="9.35123042505593" dy=".35em" text-anchor="start" style="font-size: 11px; font-family: Arial, Helvetica; pointer-events: none;">n.a.</text></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4096 2180" style="enable-background:new 0 0 4096 2180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#EA6A61;stroke-width:944.474;stroke-opacity:0.4;}
+	.st1{fill:none;stroke:#5D71A8;stroke-width:626.532;stroke-opacity:0.4;}
+	.st2{fill:none;stroke:#6B5359;stroke-width:383.4;stroke-opacity:0.4;}
+	.st3{fill:none;stroke:#766DAF;stroke-width:56.1074;stroke-opacity:0.4;}
+	.st4{fill:none;stroke:#4E6562;stroke-width:32.7293;stroke-opacity:0.4;}
+	.st5{fill:none;stroke:#BC3631;stroke-width:18.7025;stroke-opacity:0.4;}
+	.st6{fill:none;stroke:#FF4AD2;stroke-width:18.7025;stroke-opacity:0.4;}
+	.st7{fill:none;stroke:#F19854;stroke-width:9.3512;stroke-opacity:0.4;}
+	.st8{fill:#666666;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:11px;}
+	.st11{fill:#EA6A61;}
+	.st12{fill:none;}
+	.st13{fill:#6B5359;}
+	.st14{font-family:'OpenSans-Bold';}
+	.st15{font-size:87px;glyph-orientation-vertical:0;writing-mode:tb;}
+</style>
+<path class="st0" d="M5,1603c2043,0,2043-393.7,4086-393.7">
+<title>202</title>
+</path>
+<path class="st1" d="M5,736c2043,0,2043-341.6,4086-341.6">
+<title>134</title>
+</path>
+<path class="st2" d="M5,201.7c2043,0,2043,1771.6,4086,1771.6">
+<title>82</title>
+</path>
+<path class="st3" d="M5,2113.2c2043,0,2043-2070.2,4086-2070.2">
+<title>12</title>
+</path>
+<path class="st4" d="M5,1075.6c2043,0,2043,679.6,4086,679.6">
+<title>7</title>
+</path>
+<path class="st5" d="M5,1111.4c2043,0,2043,589.5,4086,589.5">
+<title>4</title>
+</path>
+<path class="st6" d="M5,2160.6c2043,0,2043-441.1,4086-441.1">
+<title>4</title>
+</path>
+<path class="st7" d="M5,408.1c2043,0,2043,314.2,4086,314.2">
+<title>2</title>
+</path>
+<rect x="4091" y="15" class="st8" width="5" height="56.1">
+<title>12
+12</title>
+</rect>
+<text transform="matrix(1 0 0 1 4072.7646 46.9037)" class="st9 st10">12</text>
+<rect x="4091" y="81.1" class="st8" width="5" height="626.5">
+<title>134
+134</title>
+</rect>
+<text transform="matrix(1 0 0 1 4066.647 398.2236)" class="st9 st10">134</text>
+<rect x="4091" y="717.6" class="st8" width="5" height="9.4">
+<title>2
+2</title>
+</rect>
+<text transform="matrix(1 0 0 1 4078.8823 726.1655)" class="st9 st10">2</text>
+<rect x="4091" y="737" class="st8" width="5" height="944.5">
+<title>202
+202</title>
+</rect>
+<text transform="matrix(1 0 0 1 4066.647 1213.0781)" class="st9 st10">202</text>
+<rect x="4091" y="1691.5" class="st8" width="5" height="37.4">
+<title>4
+8</title>
+</rect>
+<text transform="matrix(1 0 0 1 4078.8823 1714.0178)" class="st9 st10">4</text>
+<rect x="4091" y="1738.9" class="st8" width="5" height="32.7">
+<title>7
+7</title>
+</rect>
+<text transform="matrix(1 0 0 1 4078.8823 1759.085)" class="st9 st10">7</text>
+<rect x="4091" y="1781.6" class="st8" width="5" height="383.4">
+<title>82
+82</title>
+</rect>
+<text transform="matrix(1 0 0 1 4072.7646 1977.1499)" class="st9 st10">82</text>
+<rect y="10" width="5" height="383.4">
+<title>1
+82</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 205.5503)" class="st9 st10">1</text>
+<rect y="403.4" width="5" height="9.4">
+<title>2
+2</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 411.926)" class="st9 st10">2</text>
+<rect y="422.8" width="5" height="626.5">
+<title>3
+134</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 739.8679)" class="st9 st10">3</text>
+<rect y="1059.3" width="5" height="32.7">
+<title>4
+7</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 1079.4988)" class="st9 st10">4</text>
+<rect y="1102" width="5" height="18.7">
+<title>5
+4</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 1115.2146)" class="st9 st10">5</text>
+<rect y="1130.7" width="5" height="944.5">
+<title>6
+202</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 1606.8031)" class="st9 st10">6</text>
+<rect y="2085.2" width="5" height="56.1">
+<title>7
+12</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 2117.0938)" class="st9 st10">7</text>
+<rect y="2151.3" width="5" height="18.7">
+<title>n.a.
+4</title>
+</rect>
+<text transform="matrix(1 0 0 1 11 2164.4988)" class="st9 st10">n.a.</text>
+<rect x="3926.4" y="-2.5" class="st11" width="169.6" height="2180"/>
+<rect x="3978.1" y="889.8" class="st12" width="66.2" height="371.7"/>
+<text transform="matrix(1 0 0 1 4009.2166 889.7979)" class="st13 st14 st15">ASIA</text>
+</svg>
