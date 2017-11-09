@@ -1,1 +1,92 @@
-<svg width="4096" height="4096" xmlns="http://www.w3.org/2000/svg" version="1.1"><g transform="translate(2048,2048)"><g display="none"><path d="M0,1448.1546878700494A1448.1546878700494,1448.1546878700494 0 1,1 0,-1448.1546878700494A1448.1546878700494,1448.1546878700494 0 1,1 0,1448.1546878700494Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 105); fill-rule: evenodd;"></path><text transform="rotate(90)" x="0" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;"></text><title>undefined: none</title></g><g><path d="M1.2540383223268897e-13,-2048A2048,2048 0 0,1 1951.8417642425802,-620.1755617229783L1380.1605472990432,-438.5303452204942A1448.1546878700494,1448.1546878700494 0 0,0 8.867390015851453e-14,-1448.1546878700494Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 105); fill-rule: evenodd;"></path><text transform="rotate(-53.81353188734218)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">621, Sector protection</text><title>Sector protection: 621</title></g><g><path d="M1951.8417642425802,-620.1755617229783A2048,2048 0 0,1 1973.23505276664,-548.3132558428949L1395.2878866862861,-387.7160214209854A1448.1546878700494,1448.1546878700494 0 0,0 1380.1605472990432,-438.5303452204942Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 152, 105); fill-rule: evenodd;"></path><text transform="rotate(-16.578180640984147)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">18, secteur CCCM</text><title>secteur CCCM: 18</title></g><g><path d="M1973.23505276664,-548.3132558428949A2048,2048 0 0,1 2022.769427300132,-320.4806452500621L1430.3139788207527,-226.6140374953592A1448.1546878700494,1448.1546878700494 0 0,0 1395.2878866862861,-387.7160214209854Z" style="stroke: rgb(255, 255, 255); fill: rgb(183, 191, 105); fill-rule: evenodd;"></path><text transform="rotate(-12.2661055357721)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">56, secteur DRR</text><title>secteur DRR: 56</title></g><g><path d="M2022.769427300132,-320.4806452500621A2048,2048 0 0,1 1801.3969803169987,974.3063785610759L1273.7800203911195,688.9386472338443A1448.1546878700494,1448.1546878700494 0 0,0 1430.3139788207527,-226.6140374953592Z" style="stroke: rgb(255, 255, 255); fill: rgb(136, 191, 105); fill-rule: evenodd;"></path><text transform="rotate(9.702168986727095)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">321, secteur security</text><title>secteur security: 321</title></g><g><path d="M1801.3969803169987,974.3063785610759A2048,2048 0 0,1 1704.7999983076015,1134.883679400846L1205.4756393701198,802.483945562278A1448.1546878700494,1448.1546878700494 0 0,0 1273.7800203911195,688.9386472338443Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 191, 121); fill-rule: evenodd;"></path><text transform="rotate(31.029459371965032)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">45, sector early recovery</text><title>sector early recovery: 45</title></g><g><path d="M1704.7999983076015,1134.883679400846A2048,2048 0 0,1 448.32240530096004,1998.3270555404993L317.01181294617265,1413.0306120012337A1448.1546878700494,1448.1546878700494 0 0,0 1205.4756393701198,802.483945562278Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 191, 167); fill-rule: evenodd;"></path><text transform="rotate(55.50339915830362)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">375, sector education</text><title>sector education: 375</title></g><g><path d="M448.32240530096004,1998.3270555404993A2048,2048 0 0,1 -1330.030006903579,1557.34523492258L-940.4732370631115,1101.2093762623133A1448.1546878700494,1448.1546878700494 0 0,0 317.01181294617265,1413.0306120012337Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 167, 191); fill-rule: evenodd;"></path><text transform="rotate(103.92683716413076)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">456, sector food</text><title>sector food: 456</title></g><g><path d="M-1330.030006903579,1557.34523492258A2048,2048 0 0,1 -1929.234272230252,-687.2838735575061L-1364.1746363915051,-485.9830875926703A1448.1546878700494,1448.1546878700494 0 0,0 -940.4732370631115,1101.2093762623133Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 121, 191); fill-rule: evenodd;"></path><text transform="rotate(165.05341534477176)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">593, sector health</text><title>sector health: 593</title></g><g><path d="M-1929.234272230252,-687.2838735575061A2048,2048 0 0,1 -1886.984168704057,-795.9866500515311L-1334.299301682299,-562.8475579854011A1448.1546878700494,1448.1546878700494 0 0,0 -1364.1746363915051,-485.9830875926703Z" style="stroke: rgb(255, 255, 255); fill: rgb(136, 105, 191); fill-rule: evenodd;"></path><text transform="rotate(201.23988345742956)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">28, sector logistics</text><title>sector logistics: 28</title></g><g><path d="M-1886.984168704057,-795.9866500515311A2048,2048 0 0,1 -1341.083230449778,-1547.8371261235425L-948.2890463865996,-1094.4861280542543A1448.1546878700494,1448.1546878700494 0 0,0 -1334.299301682299,-562.8475579854011Z" style="stroke: rgb(255, 255, 255); fill: rgb(183, 105, 191); fill-rule: evenodd;"></path><text transform="rotate(215.98251861443828)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">225, sector shelter</text><title>sector shelter: 225</title></g><g><path d="M-1341.083230449778,-1547.8371261235425A2048,2048 0 0,1 -1283.5262761512981,-1595.889814000071L-907.5901336977003,-1128.4645095059884A1448.1546878700494,1448.1546878700494 0 0,0 -948.2890463865996,-1094.4861280542543Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 152, 105); fill-rule: evenodd;"></path><text transform="rotate(230.1424409193913)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">18, sector telecommunications</text><title>sector telecommunications: 18</title></g><g><path d="M-1283.5262761512981,-1595.889814000071A2048,2048 0 0,1 -2.1952009002439233e-12,-2048L-1.5522414426292921e-12,-1448.1546878700494A1448.1546878700494,1448.1546878700494 0 0,0 -907.5901336977003,-1128.4645095059884Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 152); fill-rule: evenodd;"></path><text transform="rotate(250.59566202654577)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">333, sector wash</text><title>sector wash: 333</title></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4096 4096" style="enable-background:new 0 0 4096 4096;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#BF6969;stroke:#FFFFFF;}
+	.st2{fill:#BF6969;stroke:#FFFFFF;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:5.2419px;}
+	.st5{fill:#BF9869;stroke:#FFFFFF;}
+	.st6{fill:#B7BF69;stroke:#FFFFFF;}
+	.st7{fill:#88BF69;stroke:#FFFFFF;}
+	.st8{fill:#69BF79;stroke:#FFFFFF;}
+	.st9{fill:#69BFA7;stroke:#FFFFFF;}
+	.st10{fill:#69A7BF;stroke:#FFFFFF;}
+	.st11{fill:#6979BF;stroke:#FFFFFF;}
+	.st12{fill:#8869BF;stroke:#FFFFFF;}
+	.st13{fill:#B769BF;stroke:#FFFFFF;}
+	.st14{fill:#BF6998;stroke:#FFFFFF;}
+</style>
+<g transform="translate(2048,2048)">
+	<g class="st0">
+		<path class="st1" d="M0,690.1c-381.1,0-690.1-309-690.1-690.1S-381.2-690.1,0-690.1S690.1-381.1,690.1,0S381.1,690.1,0,690.1z"/>
+		<title>undefined: none</title>
+	</g>
+	<g>
+		<path class="st2" d="M0-975.9c425.1,0,801.4,275.2,930.1,680.4L657.7-209C566.6-495.5,300.6-690.1,0-690.1V-975.9z"/>
+		<text transform="matrix(0.5904 -0.8071 0.8071 0.5904 410.5872 -558.1952)" class="st3 st4">621, Sector protection</text>
+		<title>Sector protection: 621</title>
+	</g>
+	<g>
+		<path class="st5" d="M930.1-295.5c3.6,11.4,7,22.8,10.2,34.2l-275.4,76.5c-2.3-8.1-4.7-16.2-7.2-24.2L930.1-295.5z"/>
+		<text transform="matrix(0.9584 -0.2853 0.2853 0.9584 664.65 -195.9522)" class="st3 st4">18, secteur CCCM</text>
+		<title>secteur CCCM: 18</title>
+	</g>
+	<g>
+		<path class="st6" d="M940.3-261.3c9.9,35.7,17.8,72,23.6,108.6L681.6-108c-4.1-25.9-9.7-51.5-16.7-76.8L940.3-261.3z"/>
+		<text transform="matrix(0.9772 -0.2125 0.2125 0.9772 677.5016 -145.4213)" class="st3 st4">56, secteur DRR</text>
+		<title>secteur DRR: 56</title>
+	</g>
+	<g>
+		<path class="st7" d="M963.9-152.7c33.5,211.7-3.5,428.5-105.5,617L607,328.3C679.1,195,705.3,41.7,681.6-108L963.9-152.7z"/>
+		<text transform="matrix(0.9857 0.1685 -0.1685 0.9857 682.7109 118.5959)" class="st3 st4">321, secteur security</text>
+		<title>secteur security: 321</title>
+	</g>
+	<g>
+		<path class="st8" d="M858.4,464.3c-14.2,26.2-29.5,51.7-46,76.5L574.4,382.4c11.7-17.5,22.5-35.6,32.5-54.1L858.4,464.3z"/>
+		<text transform="matrix(0.8569 0.5155 -0.5155 0.8569 592.8256 358.7826)" class="st3 st4">45, sector early recovery</text>
+		<title>sector early recovery: 45</title>
+	</g>
+	<g>
+		<path class="st9" d="M812.4,540.8C673.2,749.9,458.7,897.3,213.6,952.3L151,673.4c173.3-38.9,325-143.1,423.4-290.9L812.4,540.8z"
+			/>
+		<text transform="matrix(0.5664 0.8242 -0.8242 0.5664 390.9236 572.1516)" class="st3 st4">375, sector education</text>
+		<title>sector education: 375</title>
+	</g>
+	<g>
+		<path class="st10" d="M213.6,952.3c-299.8,67.3-613.8-10.6-847.4-210.1l185.6-217.4C-283,665.9-61,720.9,151,673.4L213.6,952.3z"
+			/>
+		<text transform="matrix(-0.2407 0.9706 -0.9706 -0.2407 -168.5877 672.1503)" class="st3 st4">456, sector food</text>
+		<title>sector food: 456</title>
+	</g>
+	<g>
+		<path class="st11" d="M-633.8,742.1C-941.6,479.3-1055.2,53.8-919.4-327.5l269.3,95.9c-96,269.6-15.7,570.5,201.9,756.4
+			L-633.8,742.1z"/>
+		<text transform="matrix(-0.9662 0.2579 -0.2579 -0.9662 -670.0089 176.9602)" class="st3 st4">593, sector health</text>
+		<title>sector health: 593</title>
+	</g>
+	<g>
+		<path class="st12" d="M-919.4-327.5c6.2-17.5,12.9-34.7,20.1-51.8l263.4,111.1c-5.1,12.1-9.8,24.3-14.2,36.6L-919.4-327.5z"/>
+		<text transform="matrix(-0.9321 -0.3623 0.3623 -0.9321 -645.2441 -252.7429)" class="st3 st4">28, sector logistics</text>
+		<title>sector logistics: 28</title>
+	</g>
+	<g>
+		<path class="st13" d="M-899.2-379.3c58.1-137.8,147.1-260.4,260.1-358.3l187.2,216c-79.9,69.2-142.9,155.9-183.9,253.3
+			L-899.2-379.3z"/>
+		<text transform="matrix(-0.8092 -0.5875 0.5875 -0.8092 -559.6841 -408.6166)" class="st3 st4">225, sector shelter</text>
+		<title>sector shelter: 225</title>
+	</g>
+	<g>
+		<path class="st5" d="M-639.1-737.6c9-7.8,18.1-15.4,27.4-22.9l179.1,222.7c-6.6,5.3-13,10.7-19.4,16.2L-639.1-737.6z"/>
+		<text transform="matrix(-0.6409 -0.7676 0.7676 -0.6409 -442.7187 -533.1097)" class="st3 st4">18, sector telecommunications</text>
+		<title>sector telecommunications: 18</title>
+	</g>
+	<g>
+		<path class="st14" d="M-611.7-760.5C-438.3-899.9-222.5-975.9,0-975.9v285.8c-157.3,0-309.9,53.8-432.5,152.3L-611.7-760.5z"/>
+		<text transform="matrix(-0.3322 -0.9432 0.9432 -0.3322 -228.5162 -654.1976)" class="st3 st4">333, sector wash</text>
+		<title>sector wash: 333</title>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,87 @@
-<svg width="4096" height="4096" xmlns="http://www.w3.org/2000/svg" version="1.1"><g transform="translate(2048,2048)"><g display="none"><path d="M0,1448.1546878700494A1448.1546878700494,1448.1546878700494 0 1,1 0,-1448.1546878700494A1448.1546878700494,1448.1546878700494 0 1,1 0,1448.1546878700494Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 105); fill-rule: evenodd;"></path><text transform="rotate(90)" x="0" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;"></text><title>undefined: none</title></g><g><path d="M1.2540383223268897e-13,-2048A2048,2048 0 0,1 2047.773378746195,30.466199277115845L1447.9944424447228,21.54285610582931A1448.1546878700494,1448.1546878700494 0 0,0 8.867390015851453e-14,-1448.1546878700494Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 105); fill-rule: evenodd;"></path><text transform="rotate(-44.57381615598886)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">0</text><title>0: 453</title></g><g><path d="M2047.773378746195,30.466199277115845A2048,2048 0 0,1 153.983359622978,2042.2030077735221L108.88267777929458,1444.0555953562211A1448.1546878700494,1448.1546878700494 0 0,0 1447.9944424447228,21.54285610582931Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 152, 105); fill-rule: evenodd;"></path><text transform="rotate(43.27019498607242)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">1</text><title>1: 423</title></g><g><path d="M153.983359622978,2042.2030077735221A2048,2048 0 0,1 -1737.962274843477,1083.4164163519429L-1228.9249099882209,766.0910948512868A1448.1546878700494,1448.1546878700494 0 0,0 108.88267777929458,1444.0555953562211Z" style="stroke: rgb(255, 255, 255); fill: rgb(183, 191, 105); fill-rule: evenodd;"></path><text transform="rotate(116.87465181058496)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">2</text><title>2: 311</title></g><g><path d="M-1737.962274843477,1083.4164163519429A2048,2048 0 0,1 -1952.1465296252793,-619.2155738286779L-1380.3760489678207,-437.8515312705774A1448.1546878700494,1448.1546878700494 0 0,0 -1228.9249099882209,766.0910948512868Z" style="stroke: rgb(255, 255, 255); fill: rgb(136, 191, 105); fill-rule: evenodd;"></path><text transform="rotate(172.8300835654596)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">3</text><title>3: 247</title></g><g><path d="M-1952.1465296252793,-619.2155738286779A2048,2048 0 0,1 -1420.653606817301,-1475.1431555740596L-1004.5537990976408,-1043.0837285273399A1448.1546878700494,1448.1546878700494 0 0,0 -1380.3760489678207,-437.8515312705774Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 191, 121); fill-rule: evenodd;"></path><text transform="rotate(211.83844011142062)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">4</text><title>4: 142</title></g><g><path d="M-1420.653606817301,-1475.1431555740596A2048,2048 0 0,1 -1038.9666888931147,-1764.894393262803L-734.6603911432555,-1247.9687935542456A1448.1546878700494,1448.1546878700494 0 0,0 -1004.5537990976408,-1043.0837285273399Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 191, 167); fill-rule: evenodd;"></path><text transform="rotate(232.79665738161557)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">5</text><title>5: 67</title></g><g><path d="M-1038.9666888931147,-1764.894393262803A2048,2048 0 0,1 -835.1790802134212,-1869.9678884873567L-590.5607911240537,-1322.2669745504998A1448.1546878700494,1448.1546878700494 0 0,0 -734.6603911432555,-1247.9687935542456Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 167, 191); fill-rule: evenodd;"></path><text transform="rotate(242.72423398328687)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">6</text><title>6: 32</title></g><g><path d="M-835.1790802134212,-1869.9678884873567A2048,2048 0 0,1 -709.0579064367722,-1921.3383057961191L-501.3796538953782,-1358.5913449819084A1448.1546878700494,1448.1546878700494 0 0,0 -590.5607911240537,-1322.2669745504998Z" style="stroke: rgb(255, 255, 255); fill: rgb(105, 121, 191); fill-rule: evenodd;"></path><text transform="rotate(247.83844011142057)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">7</text><title>7: 19</title></g><g><path d="M-709.0579064367722,-1921.3383057961191A2048,2048 0 0,1 -688.8429294333743,-1928.6781531841043L-487.0855065747454,-1363.7814008428272A1448.1546878700494,1448.1546878700494 0 0,0 -501.3796538953782,-1358.5913449819084Z" style="stroke: rgb(255, 255, 255); fill: rgb(136, 105, 191); fill-rule: evenodd;"></path><text transform="rotate(250.0445682451253)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">8</text><title>8: 3</title></g><g><path d="M-688.8429294333743,-1928.6781531841043A2048,2048 0 0,1 -668.55199162571,-1935.8053193679618L-472.7376468543115,-1368.8210683820762A1448.1546878700494,1448.1546878700494 0 0,0 -487.0855065747454,-1363.7814008428272Z" style="stroke: rgb(255, 255, 255); fill: rgb(183, 105, 191); fill-rule: evenodd;"></path><text transform="rotate(250.6462395543175)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">10</text><title>10: 3</title></g><g><path d="M-668.55199162571,-1935.8053193679618A2048,2048 0 0,1 -4.01419030378978e-12,-2048L-2.838461184783041e-12,-1448.1546878700494A1448.1546878700494,1448.1546878700494 0 0,0 -472.7376468543115,-1368.8210683820762Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 105, 152); fill-rule: evenodd;"></path><text transform="rotate(260.47353760445674)" x="1448.1546878700494" dx="6" dy=".35em" style="font-size: 11px; font-family: Arial, Helvetica;">n.a.</text><title>n.a.: 95</title></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4096 4096" style="enable-background:new 0 0 4096 4096;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#BF6969;stroke:#FFFFFF;}
+	.st2{fill:#BF6969;stroke:#FFFFFF;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:5.0271px;}
+	.st5{fill:#BF9869;stroke:#FFFFFF;}
+	.st6{fill:#B7BF69;stroke:#FFFFFF;}
+	.st7{fill:#88BF69;stroke:#FFFFFF;}
+	.st8{fill:#69BF79;stroke:#FFFFFF;}
+	.st9{fill:#69BFA7;stroke:#FFFFFF;}
+	.st10{fill:#69A7BF;stroke:#FFFFFF;}
+	.st11{fill:#6979BF;stroke:#FFFFFF;}
+	.st12{fill:#8869BF;stroke:#FFFFFF;}
+	.st13{fill:#B769BF;stroke:#FFFFFF;}
+	.st14{fill:#BF6998;stroke:#FFFFFF;}
+</style>
+<g transform="translate(2048,2048)">
+	<g class="st0">
+		<path class="st1" d="M0,661.8c-365.5,0-661.8-296.3-661.8-661.8S-365.5-661.8,0-661.8S661.8-365.5,661.8,0S365.5,661.8,0,661.8z"
+			/>
+		<title>undefined: none</title>
+	</g>
+	<g>
+		<path class="st2" d="M0-935.9c516.9,0,936,419,936,936c0,4.6,0,9.3-0.1,13.9L661.7,9.9c5.4-365.5-286.4-666.2-651.9-671.6
+			c-3.3,0-6.6-0.1-9.8-0.1V-935.9z"/>
+		<text transform="matrix(0.7123 -0.7018 0.7018 0.7123 474.6307 -465.1487)" class="st3 st4">0</text>
+		<title>0: 453</title>
+	</g>
+	<g>
+		<path class="st5" d="M935.8,13.9c-7.2,484.2-382.6,883-865.5,919.4L49.8,660c341.5-25.7,606.9-307.7,612-650.1L935.8,13.9z"/>
+		<text transform="matrix(0.7281 0.6854 -0.6854 0.7281 482.6788 456.8029)" class="st3 st4">1</text>
+		<title>1: 423</title>
+	</g>
+	<g>
+		<path class="st6" d="M70.4,933.3C-276.9,959.5-610,790.7-794.3,495.1l232.6-145c130.3,209,365.8,328.4,611.4,309.8L70.4,933.3z"/>
+		<text transform="matrix(-0.452 0.892 -0.892 -0.452 -301.9799 591.9968)" class="st3 st4">2</text>
+		<title>2: 311</title>
+	</g>
+	<g>
+		<path class="st7" d="M-794.3,495.1C-939.2,262.6-975-21.8-892.1-283l261.3,82.9c-58.6,184.7-33.3,385.8,69.2,550.2L-794.3,495.1z"
+			/>
+		<text transform="matrix(-0.9922 0.1248 -0.1248 -0.9922 -659.5868 81.2042)" class="st3 st4">3</text>
+		<title>3: 247</title>
+	</g>
+	<g>
+		<path class="st8" d="M-892.1-283c47.1-148.6,130.6-283,242.9-391.2l190.2,197.5c-79.4,76.5-138.4,171.5-171.8,276.6L-892.1-283z"
+			/>
+		<text transform="matrix(-0.8495 -0.5275 0.5275 -0.8495 -563.6444 -352.0633)" class="st3 st4">4</text>
+		<title>4: 142</title>
+	</g>
+	<g>
+		<path class="st9" d="M-649.3-674.1c52.8-50.8,111.3-95.3,174.4-132.4l139.1,236.2c-44.6,26.3-86,57.7-123.3,93.6L-649.3-674.1z"/>
+		<text transform="matrix(-0.6046 -0.7965 0.7965 -0.6046 -400.4245 -530.3787)" class="st3 st4">5</text>
+		<title>5: 67</title>
+	</g>
+	<g>
+		<path class="st10" d="M-474.8-806.6c30.1-17.7,61.2-33.8,93.1-48l111.8,250.3c-22.6,10.1-44.6,21.4-65.9,34L-474.8-806.6z"/>
+		<text transform="matrix(-0.4583 -0.8888 0.8888 -0.4583 -302.9895 -591.47)" class="st3 st4">6</text>
+		<title>6: 32</title>
+	</g>
+	<g>
+		<path class="st11" d="M-381.7-854.6c18.9-8.5,38.2-16.3,57.6-23.5l94.9,257.2c-13.8,5.1-27.4,10.6-40.8,16.6L-381.7-854.6z"/>
+		<text transform="matrix(-0.3772 -0.9261 0.9261 -0.3772 -249.0576 -616.1231)" class="st3 st4">7</text>
+		<title>7: 19</title>
+	</g>
+	<g>
+		<path class="st12" d="M-324-878.1c3.1-1.1,6.2-2.3,9.2-3.4l92.2,258.2c-2.2,0.8-4.4,1.6-6.5,2.4L-324-878.1z"/>
+		<text transform="matrix(-0.3413 -0.94 0.94 -0.3413 -225.1557 -625.2554)" class="st3 st4">8</text>
+		<title>8: 3</title>
+	</g>
+	<g>
+		<path class="st13" d="M-314.8-881.4c3.1-1.1,6.2-2.2,9.3-3.3l89.5,259.1c-2.2,0.8-4.4,1.5-6.6,2.3L-314.8-881.4z"/>
+		<text transform="matrix(-0.3314 -0.9435 0.9435 -0.3314 -218.5772 -627.5837)" class="st3 st4">10</text>
+		<title>10: 3</title>
+	</g>
+	<g>
+		<path class="st14" d="M-305.5-884.7C-207.2-918.6-104-935.9,0-935.9v274.1c-73.5,0-146.5,12.3-216,36.3L-305.5-884.7z"/>
+		<text transform="matrix(-0.1655 -0.9862 0.9862 -0.1655 -108.2535 -655.6829)" class="st3 st4">n.a.</text>
+		<title>n.a.: 95</title>
+	</g>
+</g>
+</svg>
